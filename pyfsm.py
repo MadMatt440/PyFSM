@@ -53,5 +53,6 @@ print("InputA ->", fsm.transition(InputA).action)
 print("InputA again ->", fsm.transition(InputA).action)
 print("InputB ->", fsm.transition(InputB).action)
 
+print("sucessfully ran")
 
 
